@@ -1,0 +1,31 @@
+_repo: From-the-Cape-to-CairoThe-First-Traverse-of-Africa-from-South-to-North_45396
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45396-h/images/img-cover.jpg
+creator:
+  authors:
+  - agent_name: Grogan, Ewart Scott
+    birthdate: 1874
+    deathdate: 1967
+    gutenberg_agent_id: '43258'
+    url: http://www.gutenberg.org/2009/agents/43258
+  - agent_name: Sharp, Arthur H. (Arthur Henry)
+    alias: Sharp, Arthur Henry
+    gutenberg_agent_id: '43259'
+    url: http://www.gutenberg.org/2009/agents/43259
+description: ''
+gutenberg_issued: '2014-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45396'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Africa -- Description and travel'
+- !lcsh 'Grogan, Ewart Scott, 1874-1967'
+- !lcc 'DT'
+title: 'From the Cape to Cairo: The First Traverse of Africa from South to North'
+url: http://www.gutenberg.org/ebooks/45396
